@@ -1,3 +1,3 @@
 # Meme Maker
 
-Meme Maker App built with Javascript and Canvas API.
+Meme Maker App built with Javascript and Canvas API!
